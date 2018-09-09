@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/.idea
+
+.DS_Store
+**/.DS_Store
+.vscode
+./logs
+/package-lock.json
